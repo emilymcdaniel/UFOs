@@ -17,16 +17,18 @@ Let's say a site user wants more information on a UFO siting in California.
 - Next, enter the the state symbol (ca) into the State search field. **NOTE: use lowercase letters when using this search**
 - Hit "Enter" on the keyboard, or click anywhere on the page.
 
-![ca search](https://github.com/emilymcdaniel/UFOs/blob/main/static/images/ca%20search.PNG?raw=true){ width=50% }
-
 Check the table! It has updated, filtering its data to list only sitings in California.
+
+![ca search](https://github.com/emilymcdaniel/UFOs/blob/main/static/images/ca%20search.PNG?raw=true)
+
 It's unfortunate that there are so may results, it would take some time to go through each listing. Luckily, the user remembers the UFO was shaped like an oval.
 - Keep the state entry (ca) where it is.
 - Then, enter the shape (oval) into the Shape search field.
 
+Check again! There are only 2 listings! 
+
 ![ca and oval search](https://github.com/emilymcdaniel/UFOs/blob/main/static/images/oval%20search.PNG?raw=true)
 
-Check again! There are only 2 listings! 
 Now, the user can read the comments and quickly find the UFO siting they were looking for.
 
 ### Mistakes Happen
