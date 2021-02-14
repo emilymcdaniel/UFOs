@@ -7,7 +7,7 @@ This webpage lists UFO sitings, providing the date, city, state, country, shape,
 
 What is exciting is the filter functionality of the table at the bottom of the page, pictured here! Let's explore that next. 
 
-![Filter Search](https://github.com/emilymcdaniel/UFOs/blob/main/static/images/Filter%20Search.PNG?raw=true)
+![Filter Search](https://github.com/emilymcdaniel/UFOs/blob/main/static/images/Filter%20Search.PNG?raw=true#thumbnail)
 
 ----
 
@@ -17,7 +17,7 @@ Let's say a site user wants more information on a UFO siting in California.
 - Next, enter the the state symbol (ca) into the State search field. **NOTE: use lowercase letters when using this search**
 - Hit "Enter" on the keyboard, or click anywhere on the page.
 
-![ca search](https://github.com/emilymcdaniel/UFOs/blob/main/static/images/ca%20search.PNG?raw=true)
+![ca search](https://github.com/emilymcdaniel/UFOs/blob/main/static/images/ca%20search.PNG?raw=true){ width=50% }
 
 Check the table! It has updated, filtering its data to list only sitings in California.
 It's unfortunate that there are so may results, it would take some time to go through each listing. Luckily, the user remembers the UFO was shaped like an oval.
